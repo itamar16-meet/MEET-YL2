@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>About Me</title>
+<style>
+h1{
+text-align:center;
+color: red;
+
+}
+
+p{
+text-align:center;
+color:blue;
+}
+body{
+padding-top:5%;
+background-color: orange;
+}
+#div1{
+bottom:50px;
+left:50px;
+width:100%;
+height:10px:
+position:fixed;
+}</style>
+</head>
+
+<body>
+<h1> About Me</h1>
+<br>
+<br>
+<br>
+<br>
+<p>Hey so as I said on home I am Itamar I am 16 years old</p>
+<p>I am so happy why? Because I just am</p>
+<p>Life is o beautiful and magical everything is so pretty</p>
+<p>My advice is.......................</p>
+<p>Just Smile guys</p>
+<div id = "div1" style="text-align:center;">
+<a href="home.html">Home</a>
+<br>
+<p style = "font-style:bold;font-size:30px;">About Me</p>
+<br>
+<a href="contactme.html">Contact Me</p>
+</body>
+</html>

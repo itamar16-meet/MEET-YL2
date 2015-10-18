@@ -1,0 +1,63 @@
+<html>
+<head>
+<title>Contact Me</title>
+<style>
+h1{
+text-align:center;
+color: red;
+
+}
+
+p{
+text-align:center;
+color:blue;
+}
+body{
+padding-top:5%;
+background-color: orange;
+}
+#div1{
+bottom:50px;
+left:50px;
+width:100%;
+height:10px:
+position:fixed;
+}
+h2{
+text-align:center;
+color:red;
+}
+</style>
+</head>
+<body>
+<h1>Contact Me</h1>
+<br>
+<br>
+<br>
+<br>
+<p>Name: Itamar</p>
+<p>Last Name:Giron</p>
+<p>Email: itamargiron@gmail.com</p>
+<p>Address:Jerusalem,Habanay 22 Apartment 19</p>
+<form>
+<h2> Contact me man</h2>
+<br>
+<table align = "center" border = "6">
+<tr><td>Name:</td><td colspan="3"><input type="text"></td></tr>
+<tr><td>Last Name:</td><td colspan="3"><input type="text"></td></tr>
+<tr><td>Email:</td><td colspan="3"><input type="text"></td></tr>
+<tr><td>Male:</td><td><input type="radio" name = "gender" checked></td><td> Female:</td><td><input name="gender" type="radio"></td></tr>
+<tr><td colspan = "2">I Agree that Itamar is awsome</td><td colspan = "2"><input type="checkbox"></td></tr>
+<tr><td colspan="4"><input type="submit" value ="submit"></td></tr>
+
+</table>
+</form>
+<div id = "div1" style="text-align:center;">
+<a href="home.html">Home</a>
+<br>
+<a href="aboutme.html">About Me</a>
+<br>
+<p style = "font-style:bold;font-size:30px;">Contact ME</p>
+</div>
+</body>
+</html>
